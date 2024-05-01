@@ -1,0 +1,18 @@
+{
+  "name": "@gdrtyui/odio-deserunt-praesentium-et",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdrtyui/odio-deserunt-praesentium-et.git"
+  },
+  "dependencies": {
+    "@orihurah/tea-xyz-quest": "^1.0.3"
+  }
+}
