@@ -1,6 +1,6 @@
 {
-  "name": "@gdrtyui/odio-deserunt-praesentium-et",
-  "version": "1.0.0",
+  "name": "@juandi_95/praesentium-et",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gdrtyui/odio-deserunt-praesentium-et.git"
+    "url": "https://github.com/juandi956/praesentium-et.git"
   },
   "dependencies": {
-    "@orihurah/tea-xyz-quest": "^1.0.3"
+    "@dansmall6/non-accusamus": "^1.0.3",
+    "@orihurah/tea-xyz-quest": "^1.0.3",
+    "smpl-cachejs": "^0.0.4",
+    "smpl-schemas": "^0.0.3"
   }
 }
